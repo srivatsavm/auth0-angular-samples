@@ -1,5 +1,8 @@
 {
   "domain": "sri-trial.au.auth0.com",
   "clientId": "O1Uq1vUqSv9XdX1UqKNegiktSKIhd3uO",
-  "audience": "618c365951f4b10040b46ebb"
+  "audience": "urn:auth0-authz-api"
+   "apiUri": "https://reactoauth1demo3.azurewebsites.net:3001",
+  "appUri": "https://reactoauth1demo3.azurewebsites.net:4200",
+  "errorPath": "/error"
 }
